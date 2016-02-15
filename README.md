@@ -23,8 +23,10 @@ Technologies Used
 5.      SMS api
  
 Team Members:
-1. YOgesh Ojha
+1. Yogesh Ojha
 2. Hanumantha Reddy G N
 3. Sachin Kumar B.A
 4. Girish Patil
 5. Mohammad Alquama Fernandes
+
+## This project was awarded as First Runner Up in VTU Hackfest Competition
